@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Task Manager",
+    "description": "A full-stack task management app built with Next.js and Spring Boot.",
+    "tech": ["Next.js", "Spring Boot", "PostgreSQL", "JWT"],
+    "github": "https://github.com/yourusername/task-manager",
+    "demo": null
+  }
+]
